@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>music_pause_button.png</file>
+        <file>music_play_button.png</file>
+        <file>music_fastforward_button.png</file>
+        <file>music_rewind_button.png</file>
+        <file>music_play_hover_button.png</file>
+        <file>music_pause_hover_button.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>radio button select.png</file>
+        <file>radio button unselect.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>

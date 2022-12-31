@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>phone.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>style.qss</file>
+    </qresource>
+</RCC>

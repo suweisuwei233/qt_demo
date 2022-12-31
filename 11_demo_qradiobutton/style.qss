@@ -1,0 +1,45 @@
+QRadioButton::indicator:unchecked{
+    image:url(:/icon/radio button unselect.png);
+}
+QRadioButton::indicator:checked{
+    image:url(:/icon/radio button select.png);
+}
+QRadioButton{
+    font-size:17px;
+    color:balck;
+}
+QRadioButton::indicator{
+    width:40px;
+    height:40px;
+    width:0px;
+    height:0px;
+}
+QRadioButton{
+    font-size:18px;
+    color: #99404040;
+    background-color:#aadddddd;
+    border-radius:10px;
+    text-align:center;
+}
+QRadioButton:checked{
+    font-size:18px;
+    color: #99404040;
+    background-color:red;
+    border-radius:10px;
+    text-align:center;
+}
+QPushButton::checked{
+    border-radius:12px;
+    font-size:18px;
+    color: #fff;
+    background-color:green;
+    text-align:center;
+}
+
+QPushButton{
+    border-radius:12px;
+    font-size:18px;
+    color: #99404040;
+    background-color:#aadddddd;
+    text-align:center;
+}

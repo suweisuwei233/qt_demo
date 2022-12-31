@@ -1,0 +1,7 @@
+QLabel#label_2{
+    background-color:orange;
+}
+QLabel#label_3{
+    border:1px solid red;
+    background-color:yellow;
+}

@@ -1,0 +1,26 @@
+QPushButton#pushButton{
+    border-image:url(:/icon/music_play_button.png);
+    width:80px;
+    height:80px;
+}
+QPushButton#pushButton:hover{
+    border-image:url(:/icon/music_play_hover_button.png);
+    width:80px;
+    height:80px;
+}
+QPushButton#pushButton:checked{
+    border-image:url(:/icon/music_pause_button.png);
+    width:80px;
+    height:80px;
+}
+QPushButton#pushButton:checked:hover{
+    border-image:url(:/icon/music_pause_hover_button.png);
+    width:80px;
+    height:80px;
+}
+QPushButton#pushButton_2{
+
+}
+QPushButton#pushButton_3{
+
+}
